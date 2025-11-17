@@ -1,0 +1,5 @@
+{
+  "name": "Copy of GCP Strategic Plan Generator",
+  "description": "An application for product strategists to convert high-level business goals into structured, actionable execution plans using serverless architecture and GenAI capabilities on Google Cloud Platform.",
+  "requestFramePermissions": []
+}
